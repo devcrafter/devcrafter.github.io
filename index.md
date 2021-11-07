@@ -1,6 +1,6 @@
 ## Welcome to devcrafter blog
 
-Let's where it will bring us.
+Let's see where it will bring us.
 
 Today quote from The Good Doctor serial:
 >Boss: “Both of us, we need to face the reality”<br />
