@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=ZQFzMfHIxng
 https://www.youtube.com/watch?v=c1gO9aB9nbs
 
 materials:
+x86 to ARM: https://www.arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/
 x86 relaxed: https://stackoverflow.com/questions/53805142/why-memory-order-relaxed-performance-is-the-same-as-memory-order-seq-cst/53805377
 
 https://stackoverflow.com/questions/49107683/why-does-a-stdatomic-store-with-sequential-consistency-use-xchg
