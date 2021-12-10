@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=ZQFzMfHIxng
 https://www.youtube.com/watch?v=c1gO9aB9nbs
 
 materials:
+x86 relaxed: https://stackoverflow.com/questions/53805142/why-memory-order-relaxed-performance-is-the-same-as-memory-order-seq-cst/53805377
+
 https://stackoverflow.com/questions/49107683/why-does-a-stdatomic-store-with-sequential-consistency-use-xchg
 https://preshing.com/20120913/acquire-and-release-semantics/
 https://shipilev.net/blog/2014/on-the-fence-with-dependencies/
