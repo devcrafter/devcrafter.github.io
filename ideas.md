@@ -1,6 +1,18 @@
 1. get max out of single thead
 2. eBPF
-3. 
+---
+Atomics
+
+talks:
+https://www.youtube.com/watch?v=ZQFzMfHIxng
+https://www.youtube.com/watch?v=c1gO9aB9nbs
+
+materials:
+https://stackoverflow.com/questions/49107683/why-does-a-stdatomic-store-with-sequential-consistency-use-xchg
+https://preshing.com/20120913/acquire-and-release-semantics/
+https://shipilev.net/blog/2014/on-the-fence-with-dependencies/
+https://preshing.com/20120625/memory-ordering-at-compile-time/
+https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/
 
 --- 
 Cpp:
